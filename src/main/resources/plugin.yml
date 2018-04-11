@@ -1,0 +1,10 @@
+name: PC-Craft AbfallEimer
+version: 1.0
+author: PC-Craft.DE
+main: de.pc_craft.abfall.main.Main
+commands:
+    abfall:
+       description: Abfalleimer oeffnen
+permissions:
+    pccraft.abfall:
+        description: Befugt den User den Abfall-Eimer zu oeffnen!
